@@ -219,7 +219,7 @@ body {
     justify-content: center;
 }
 
-.feature-card h3 {
+.feature-card h2 {
     font-size: 16px;
     font-weight: 700;
 }
@@ -398,7 +398,7 @@ body {
     stroke: currentColor;
 }
 
-.dest-content h3 {
+.dest-content h2 {
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 25px;
@@ -509,7 +509,7 @@ body {
     gap: 15px;
 }
 
-.tour-header-row h3 {
+.tour-header-row h2 {
     font-size: 18px;
     font-weight: 500;
     color: var(--text-main);
